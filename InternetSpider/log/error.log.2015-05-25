@@ -1,0 +1,81 @@
+2015-05-25 22:52:37[pool-1-thread-1]protocol = http host = null
+2015-05-25 22:53:24[pool-1-thread-1]protocol = http host = null
+2015-05-25 22:53:25[pool-1-thread-1]protocol = http host = null
+2015-05-25 22:53:26[pool-1-thread-1]protocol = http host = null
+2015-05-25 22:53:33[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 22:53:33[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 22:53:33[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 22:53:34[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 22:53:34[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 22:53:34[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 22:53:34[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 22:53:35[pool-1-thread-1]protocol = http host = null
+2015-05-25 22:53:37[pool-1-thread-1]protocol = http host = null
+2015-05-25 22:53:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 22:53:38[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 22:53:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 22:53:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 22:53:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 22:53:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 22:53:39[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 22:56:46[pool-1-thread-1]no protocol: www.youku.com
+2015-05-25 22:59:27[pool-1-thread-1]http://tvs.youku.com/nikon
+2015-05-25 22:59:34[pool-1-thread-1]http://c.youku.com/abouteg/youku
+2015-05-25 23:00:18[pool-1-thread-1]http://tv.youku.com/t70
+2015-05-25 23:00:41[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://u.youku.com/my/;icon-uri=http://www.youku.com/favicon.ico
+2015-05-25 23:00:58[pool-1-thread-1]http://c.youku.com/2012license/index
+2015-05-25 23:13:41[pool-1-thread-2]http://tvs.youku.com/nikon
+2015-05-25 23:13:42[pool-1-thread-2]http://c.youku.com/abouteg/youku
+2015-05-25 23:27:01[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:22[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:22[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:22[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:26[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 23:27:26[pool-1-thread-1]http://cbjslog.baidu.com/log
+2015-05-25 23:27:26[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://cpro.baidu.com/cpro/ui/preview/templates/
+2015-05-25 23:27:26[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 23:27:26[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 23:27:26[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 23:27:26[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 23:27:26[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 23:27:27[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 23:27:27[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:29[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:29[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 23:27:30[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 23:27:30[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 23:27:30[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 23:27:30[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 23:27:30[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 23:27:30[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 23:27:36[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:38[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 23:27:38[pool-1-thread-1]http://cbjslog.baidu.com/log
+2015-05-25 23:27:38[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://cpro.baidu.com/cpro/ui/preview/templates/
+2015-05-25 23:27:38[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 23:27:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 23:27:38[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 23:27:39[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 23:27:39[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 23:27:39[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 23:27:42[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:42[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 23:27:42[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 23:27:42[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 23:27:42[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 23:27:42[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 23:27:42[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 23:27:42[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 23:27:45[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:45[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://cb.baidu.com/ecom?
+2015-05-25 23:27:50[pool-1-thread-1]protocol = http host = null
+2015-05-25 23:27:50[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://cb.baidu.com/ecom?
+2015-05-25 23:27:50[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/lu_shouqi.png)
+2015-05-25 23:27:50[pool-1-thread-1]Server returned HTTP response code: 400 for URL: http://pos.baidu.com/acom?
+2015-05-25 23:27:50[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.1/xuanfu_close.png)
+2015-05-25 23:27:50[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuanfu_mouseover_close.png)
+2015-05-25 23:27:51[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose.png\
+2015-05-25 23:27:51[pool-1-thread-1]http://cpro.baidustatic.com/cpro/ui/noexpire/img/2.0.0/xuantingClose
+2015-05-25 23:27:51[pool-1-thread-1]Server returned HTTP response code: 403 for URL: http://dup.baidustatic.com/painter/
+2015-05-25 23:58:46[pool-1-thread-1]protocol = http host = null
